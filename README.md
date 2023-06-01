@@ -1,2 +1,2 @@
-# cattle
-cattle is an simple os
+# gnos
+gnos is an simple os
